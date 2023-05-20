@@ -1,7 +1,7 @@
 C-Banners 将游戏里大多数盾牌式的旗帜改为方形以获得更好的视觉效果。
 C-Banners change most of the shield-style banners in the game to square for better visual effect.
 
-[bold]铁人兼容。[/bold]
+铁人兼容。
 IRONMAN COMPATIBLE.
 
 兼容性：除了有修改相同内容的模组，应该都可兼容（修改了 GUI 的不能保证）。
