@@ -14,6 +14,7 @@ if exist %mod_dir%.zip del /F /S /Q %mod_dir%.zip
 ECHO.
 ECHO Copying started.
 ECHO.
+xcopy %mod_dir%\ output\%mod_dir%\ /E /Q /C /Y
 xcopy mod_descriptor\%mod_desc% output\ /E /Q /C /Y
 ECHO path="mod/%mod_dir%" >> output\%mod_desc%
 xcopy mod_descriptor\%mod_desc% output\%mod_dir%\ /Q /C /Y
