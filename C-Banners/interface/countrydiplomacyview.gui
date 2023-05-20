@@ -86,7 +86,7 @@ guiTypes = {
 		{
 			name ="countryshield"
 			quadTextureSprite = "GFX_shield_thin"
-			position = { x= -6 y = 124 }
+			position = { x= 0 y = 124 } # -6 124
 			Orientation = "UPPER_LEFT"
 			clicksound = click
 		}
@@ -95,7 +95,7 @@ guiTypes = {
 		{
 			name ="countryshield_glow"
 			quadTextureSprite = "GFX_shield_thin_great_power_glow"
-			position = { x= -6 y = 124 }
+			position = { x= 0 y = 124 } # -6 124
 			Orientation = "UPPER_LEFT"
 			alwaystransparent = yes
 		}
@@ -1678,7 +1678,7 @@ guiTypes = {
 		name = "countrydiplomacyview_shielditem"
 		backGround =""
 		position = { x=0 y=0 }
-		size = { x=28 y=32 }
+		size = { x=30 y=38 } # 28 32
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = ""
@@ -1686,7 +1686,7 @@ guiTypes = {
 		guiButtonType =
 		{
 			name ="shield"
-			position = { x= 0 y = -1 }
+			position = { x= 0 y = 0 }
 			quadTextureSprite = "GFX_shield_small"
 			tooltip = ""
 			tooltipText =""
@@ -1701,7 +1701,7 @@ guiTypes = {
 		name = "countrydiplomacyview_shielditem_rival"
 		backGround =""
 		position = { x=0 y=0 }
-		size = { x=28 y=32 }
+		size = { x=30 y=38 } # 28 32
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = ""

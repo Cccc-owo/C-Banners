@@ -82,7 +82,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "player_shield"
 			quadTextureSprite ="GFX_shield_fancy"
-			position = { x= -5 y = 2 }
+			position = { x= 0 y = 2 } # -5 2
 			Orientation = "UPPER_LEFT"
 			tooltip = ""
 			tooltipText =""
@@ -93,7 +93,7 @@ guiTypes = {
 		iconType = {
 			name = "player_shield_glow"
 			quadTextureSprite ="GFX_shield_fancy_great_power_glow"
-			position = { x= -5 y = 2 }
+			position = { x= 0 y = 2 } # -5 2
 			Orientation = "UPPER_LEFT"
 			alwaystransparent = yes
 		}
