@@ -7,8 +7,8 @@ IRONMAN COMPATIBLE.
 兼容性：除了有修改相同内容的模组，应该都可兼容（修改了 GUI 的不能保证）。
 Compatibility: Except for mods with the same modified content, they should all be compatible (eg. mods that modified GUI are not guaranteed compatibility).
 
-如果你发现了一些 GUI 错位之类的问题，欢迎提出，以及欢迎大佬指导（本人不太熟悉 GUI 修改），我会尽量研究解决。
-If you find some GUI misalignment and other problems, welcome to comment below, as well as welcome other developers' guidance( since I'm new to gui modification ), I will try to deal with it.
+如果你有任何建议，欢迎提出、指导。
+If you have any suggestion, welcome to comment below.
 
-图形资源来自 EU4 本身，且部分经过了我的修改。
-The graphics assets are from EU4 itself, and some of them have been modified by me.
+图形资源大部分来自 EU4 原版，且部分经过了我的修改。
+The graphics assets are mostly from EU4 vanilla, and some of them have been modified by me.
