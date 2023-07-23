@@ -9,6 +9,3 @@ Compatibility: Except for mods with the same modified content, they should all b
 
 如果你有任何建议，欢迎提出、指导。
 If you have any suggestion, welcome to comment below.
-
-图形资源大部分来自 EU4 原版，且部分经过了我的修改。
-The graphics assets are mostly from EU4 vanilla, and some of them have been modified by me.
