@@ -1,12 +1,16 @@
 # 更新日志
 
-## v2.1
+## v2.2
 
-- 优化视觉效果。 Optimize visual effects.
+- 适配 v1.36。 Adapt to v1.36.
 
 ---
 
 <details><summary>历史更新日志</summary>
+
+## v2.1
+
+- 优化视觉效果。 Optimize visual effects.
 
 ## v2.0
 
