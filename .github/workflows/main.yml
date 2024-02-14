@@ -39,7 +39,7 @@ jobs:
     runs-on: windows-latest
     if: startsWith(github.ref, 'refs/tags/') != true
     steps:
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: mod
 
@@ -61,7 +61,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: mod
 
